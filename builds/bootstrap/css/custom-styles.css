@@ -1,0 +1,14 @@
+.image-div{
+    width: 100px;
+text-align: center;
+}
+.image-div-title{
+    color: #520452;
+    font-weight: bold;
+    font-size: 1.5rem;
+    height: 1.6rem;
+}
+.image-div-second-title{
+    color: white;
+    font-weight: lighter;
+}
