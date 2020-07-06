@@ -7,10 +7,12 @@
   },
   "author": "Ray Villalobos",
   "devDependencies": {
-    "browser-sync": "^2.26.7"
+    "browser-sync": "^2.26.7",
+    "webpack": "^4.43.0"
   },
   "dependencies": {
+    "find-index": "^1.1.1",
     "livereload": "^0.9.1"
   },
-  "live": "nodemon server.js" 
+  "live": "nodemon server.js"
 }
