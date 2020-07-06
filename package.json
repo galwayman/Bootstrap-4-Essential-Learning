@@ -8,5 +8,9 @@
   "author": "Ray Villalobos",
   "devDependencies": {
     "browser-sync": "^2.26.7"
-  }
+  },
+  "dependencies": {
+    "livereload": "^0.9.1"
+  },
+  "live": "nodemon server.js" 
 }
