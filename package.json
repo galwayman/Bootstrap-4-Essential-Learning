@@ -8,7 +8,7 @@
   "author": "Ray Villalobos",
   "devDependencies": {
     "browser-sync": "^2.26.7",
-    "webpack": "^4.43.0"
+    "webpack": "^5.75.0"
   },
   "dependencies": {
     "find-index": "^1.1.1",
